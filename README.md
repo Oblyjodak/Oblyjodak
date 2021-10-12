@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Oblyjodak
 - 👀 I’m interested in World
 - 🌱 I’m currently learning C#, .NET
-- 💞️ I’m looking to collaborate on 13.07
 - 📫 How to reach me @oblyjodak
